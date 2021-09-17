@@ -10,5 +10,6 @@ namespace T2008M_UWP.Models
     {
         public string Name { get; set; }// abstract property
         public string MenuPage { get; set; }
+        public string Icon { get; set; }
     }
 }
