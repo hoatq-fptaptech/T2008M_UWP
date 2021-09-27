@@ -27,5 +27,19 @@ namespace T2008M_UWP.Services
             }
             return null;
         }
+
+        public async Task<Models.CategoryDetail> GetCategoryDetail(string id)
+        {
+            Adapters.FoodGroup api = Adapters.FoodGroup.GetInstance();
+            HttpClient hc = new HttpClient(); // shipper -> lo việc kết nối api để lấy dữ liệu
+            var rs = await hc.GetAsync(api.CategoryDetail(id));// get_file_content -> thao tác trả hàng của shipper
+            if (rs.StatusCode == HttpStatusCode.OK)
+            {
+                var stringContent = await rs.Content.ReadAsStringAsync();// chuyển thành string json
+                Models.CategoryDetail categoryDetail = JsonConvert.DeserializeObject<Models.CategoryDetail>(stringContent);
+                return categoryDetail;
+            }
+            return null;
+        }
     }
 }

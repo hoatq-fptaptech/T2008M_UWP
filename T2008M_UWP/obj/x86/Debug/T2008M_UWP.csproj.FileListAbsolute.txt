@@ -59,3 +59,13 @@ C:\Aptech\SEM3\T2008M\T2008M\T2008M_UWP\obj\x86\Debug\Pages\Mail.g.cs
 C:\Aptech\SEM3\T2008M\T2008M\T2008M_UWP\obj\x86\Debug\Pages\Mail.xaml
 C:\Aptech\SEM3\T2008M\T2008M\T2008M_UWP\obj\x86\Debug\Pages\Mail.xbf
 C:\Aptech\SEM3\T2008M\T2008M\T2008M_UWP\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Aptech\SEM3\T2008M\T2008M\T2008M_UWP\bin\x86\Debug\Pages\CategoryPage.xbf
+C:\Aptech\SEM3\T2008M\T2008M\T2008M_UWP\obj\x86\Debug\Pages\CategoryPage.g.i.cs
+C:\Aptech\SEM3\T2008M\T2008M\T2008M_UWP\obj\x86\Debug\Pages\CategoryPage.g.cs
+C:\Aptech\SEM3\T2008M\T2008M\T2008M_UWP\obj\x86\Debug\Pages\CategoryPage.xaml
+C:\Aptech\SEM3\T2008M\T2008M\T2008M_UWP\obj\x86\Debug\Pages\CategoryPage.xbf
+C:\Aptech\SEM3\T2008M\T2008M\T2008M_UWP\bin\x86\Debug\Pages\FoodPage.xbf
+C:\Aptech\SEM3\T2008M\T2008M\T2008M_UWP\obj\x86\Debug\Pages\FoodPage.g.i.cs
+C:\Aptech\SEM3\T2008M\T2008M\T2008M_UWP\obj\x86\Debug\Pages\FoodPage.g.cs
+C:\Aptech\SEM3\T2008M\T2008M\T2008M_UWP\obj\x86\Debug\Pages\FoodPage.xaml
+C:\Aptech\SEM3\T2008M\T2008M\T2008M_UWP\obj\x86\Debug\Pages\FoodPage.xbf

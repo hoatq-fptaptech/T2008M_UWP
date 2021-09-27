@@ -31,5 +31,10 @@ namespace T2008M_UWP.Adapters
         {
             get => String.Format(baseURL + "/api/menu");
         }
+
+        public string CategoryDetail(string id)
+        {
+            return String.Format(baseURL + "/api/category/" + id);
+        }
     }
 }

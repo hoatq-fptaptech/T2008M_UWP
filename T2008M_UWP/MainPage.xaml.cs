@@ -63,10 +63,10 @@ namespace T2008M_UWP
             {
                 case "home": MainFrame.Navigate(typeof(Pages.Home),selectedItem); break; // Page
                 case "pi": MainFrame.Navigate(typeof(Pages.PersonInfomation)); break;
-                    //case "category": MainFrame.Navigate(typeof(Pages.Category),category); break;
+                case "category": MainFrame.Navigate(typeof(Pages.CategoryPage),selectedItem.Category); break;
             }
         }
-
+      
         public async void RenderCategoriesToMenu()
         {
             // dung Service de lay object Categories
@@ -76,7 +76,7 @@ namespace T2008M_UWP
             {
                 foreach(Models.Category c in categories.data)
                 {
-                    Menu.Items.Add(new MenuItem() { Name=c.name,MenuPage="category",Icon= "\ue71d" });
+                    Menu.Items.Add(new MenuItem() { Name=c.name,MenuPage="category",Icon= "\ue71d",Category=c });
                 }
             }
         }

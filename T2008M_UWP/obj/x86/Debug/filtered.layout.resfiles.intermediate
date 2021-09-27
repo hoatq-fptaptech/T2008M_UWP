@@ -7,6 +7,8 @@ Assets\StoreLogo.png
 Assets\Wide310x150Logo.scale-200.png
 App.xbf
 MainPage.xbf
+Pages\CategoryPage.xbf
+Pages\FoodPage.xbf
 Pages\Home.xbf
 Pages\Mail.xbf
 Pages\PersonInfomation.xbf

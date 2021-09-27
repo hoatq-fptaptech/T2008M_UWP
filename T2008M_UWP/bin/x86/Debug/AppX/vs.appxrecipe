@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Aptech\SEM3\T2008M\T2008M\T2008M_UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-09-22T02:19:29.388</Modified>
+      <Modified>2021-09-27T02:17:42.791</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Aptech\SEM3\T2008M\T2008M\T2008M_UWP\bin\x86\Debug\T2008M_UWP.exe">
       <PackagePath>entrypoint\T2008M_UWP.exe</PackagePath>
-      <Modified>2021-09-22T02:19:27.399</Modified>
+      <Modified>2021-09-27T02:17:41.761</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\QuangHoa\.nuget\packages\newtonsoft.json\13.0.1\lib\netstandard2.0\Newtonsoft.Json.dll">
       <PackagePath>Newtonsoft.Json.dll</PackagePath>
@@ -90,27 +90,35 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Aptech\SEM3\T2008M\T2008M\T2008M_UWP\bin\x86\Debug\T2008M_UWP.xr.xml">
       <PackagePath>T2008M_UWP.xr.xml</PackagePath>
-      <Modified>2021-09-17T02:38:05.112</Modified>
+      <Modified>2021-09-27T02:17:41.575</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Aptech\SEM3\T2008M\T2008M\T2008M_UWP\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2021-09-22T02:19:27.225</Modified>
+      <Modified>2021-09-27T02:17:41.593</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Aptech\SEM3\T2008M\T2008M\T2008M_UWP\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2021-09-22T02:19:27.227</Modified>
+      <Modified>2021-09-27T02:17:41.593</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Aptech\SEM3\T2008M\T2008M\T2008M_UWP\bin\x86\Debug\Pages\CategoryPage.xbf">
+      <PackagePath>Pages\CategoryPage.xbf</PackagePath>
+      <Modified>2021-09-27T02:17:41.594</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Aptech\SEM3\T2008M\T2008M\T2008M_UWP\bin\x86\Debug\Pages\FoodPage.xbf">
+      <PackagePath>Pages\FoodPage.xbf</PackagePath>
+      <Modified>2021-09-27T02:17:41.594</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Aptech\SEM3\T2008M\T2008M\T2008M_UWP\bin\x86\Debug\Pages\Home.xbf">
       <PackagePath>Pages\Home.xbf</PackagePath>
-      <Modified>2021-09-22T02:19:27.228</Modified>
+      <Modified>2021-09-27T02:17:41.594</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Aptech\SEM3\T2008M\T2008M\T2008M_UWP\bin\x86\Debug\Pages\Mail.xbf">
       <PackagePath>Pages\Mail.xbf</PackagePath>
-      <Modified>2021-09-22T02:19:27.229</Modified>
+      <Modified>2021-09-27T02:17:41.595</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Aptech\SEM3\T2008M\T2008M\T2008M_UWP\bin\x86\Debug\Pages\PersonInfomation.xbf">
       <PackagePath>Pages\PersonInfomation.xbf</PackagePath>
-      <Modified>2021-09-22T02:19:27.229</Modified>
+      <Modified>2021-09-27T02:17:41.595</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.19041.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -118,11 +126,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Aptech\SEM3\T2008M\T2008M\T2008M_UWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2021-09-22T02:07:38.406</Modified>
+      <Modified>2021-09-27T02:17:41.947</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Aptech\SEM3\T2008M\T2008M\T2008M_UWP\bin\x86\Debug\Core\T2008M_UWP.exe">
       <PackagePath>T2008M_UWP.exe</PackagePath>
-      <Modified>2021-09-22T02:19:29.359</Modified>
+      <Modified>2021-09-27T02:17:42.784</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
