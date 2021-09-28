@@ -69,3 +69,8 @@ C:\Aptech\SEM3\T2008M\T2008M\T2008M_UWP\obj\x86\Debug\Pages\FoodPage.g.i.cs
 C:\Aptech\SEM3\T2008M\T2008M\T2008M_UWP\obj\x86\Debug\Pages\FoodPage.g.cs
 C:\Aptech\SEM3\T2008M\T2008M\T2008M_UWP\obj\x86\Debug\Pages\FoodPage.xaml
 C:\Aptech\SEM3\T2008M\T2008M\T2008M_UWP\obj\x86\Debug\Pages\FoodPage.xbf
+C:\Aptech\SEM3\T2008M\T2008M\T2008M_UWP\obj\x86\Debug\Pages\DemoFilePage.g.i.cs
+C:\Aptech\SEM3\T2008M\T2008M\T2008M_UWP\obj\x86\Debug\Pages\DemoFilePage.g.cs
+C:\Aptech\SEM3\T2008M\T2008M\T2008M_UWP\obj\x86\Debug\Pages\DemoFilePage.xaml
+C:\Aptech\SEM3\T2008M\T2008M\T2008M_UWP\obj\x86\Debug\Pages\DemoFilePage.xbf
+C:\Aptech\SEM3\T2008M\T2008M\T2008M_UWP\bin\x86\Debug\Pages\DemoFilePage.xbf

@@ -79,6 +79,9 @@
     <AppxPackagedFile Include="C:\Aptech\SEM3\T2008M\T2008M\T2008M_UWP\bin\x86\Debug\Pages\CategoryPage.xbf">
       <PackagePath>Pages\CategoryPage.xbf</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Aptech\SEM3\T2008M\T2008M\T2008M_UWP\bin\x86\Debug\Pages\DemoFilePage.xbf">
+      <PackagePath>Pages\DemoFilePage.xbf</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Aptech\SEM3\T2008M\T2008M\T2008M_UWP\bin\x86\Debug\Pages\FoodPage.xbf">
       <PackagePath>Pages\FoodPage.xbf</PackagePath>
     </AppxPackagedFile>

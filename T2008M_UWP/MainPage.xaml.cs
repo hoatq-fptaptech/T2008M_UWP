@@ -27,7 +27,7 @@ namespace T2008M_UWP
         {
             this.InitializeComponent();
             _mainFrame = MainFrame;
-            MainFrame.Navigate(typeof(Pages.Mail));
+            MainFrame.Navigate(typeof(Pages.DemoFilePage));
         }
 
      
