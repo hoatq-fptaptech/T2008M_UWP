@@ -25,6 +25,7 @@ namespace T2008M_UWP.Pages
         public DemoFilePage()
         {
             this.InitializeComponent();
+            //Adapters.SQLiteHelper helper = Adapters.SQLiteHelper.GetInstance();
         }
 
         private void WriteFile(object sender, RoutedEventArgs e)

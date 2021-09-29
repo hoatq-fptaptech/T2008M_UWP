@@ -15,4 +15,7 @@ Pages\Mail.xbf
 Pages\PersonInfomation.xbf
 T2008M_UWP.xr.xml
 Properties\Default.rd.xml
+sqlite3.dll
 WinMetadata\Windows.winmd
+SQLitePCL.Ext.dll
+SQLitePCL.Ext.pri
