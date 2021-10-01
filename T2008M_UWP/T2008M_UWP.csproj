@@ -150,6 +150,7 @@
     <Compile Include="Services\CartService.cs" />
     <Compile Include="Services\FileHandleService.cs" />
     <Compile Include="Services\MenuService.cs" />
+    <Compile Include="Services\OrderService.cs" />
   </ItemGroup>
   <ItemGroup>
     <AppxManifest Include="Package.appxmanifest">
