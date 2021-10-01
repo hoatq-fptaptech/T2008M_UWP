@@ -32,6 +32,10 @@ namespace T2008M_UWP.Adapters
             get => String.Format(baseURL + "/api/menu");
         }
 
+        public string ApiCreateOrder
+        {
+            get => String.Format(baseURL + "/api/create-order");
+        }
         public string CategoryDetail(string id)
         {
             return String.Format(baseURL + "/api/category/" + id);
